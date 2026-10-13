@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+snowflake-connector-python
+python-dotenv
+streamlit
+plotly
+imbalanced-learn
+openpyxl
+ 
