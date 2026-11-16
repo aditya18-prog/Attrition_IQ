@@ -21,17 +21,17 @@ I built this project end to end to answer that question: from raw data in the cl
 ### Page 1 – Executive Overview
 Headline numbers (4,700 employees, 1,359 left, 28.9% attrition), attrition by department, job role and tenure, and a decomposition tree to drill into who is leaving.
 
-![Executive Overview](powerbi/page1_overview_png.png)
+![Executive Overview](powerbi/screenshots/page1_overview.png.png)
 
 ### Page 2 – Attrition Drivers
 Attrition rate by overtime, income, commute distance, job satisfaction, performance rating and age, plus a Key Influencers visual that ranks what pushes attrition up.
 
-![Attrition Drivers](powerbi/page2_drivers_png.png)
+![Attrition Drivers](powerbi/screenshots/page2_drivers.png.png)
 
 ### Page 3 – Risk Segmentation & Action List
 Employees scored by number of risk factors (overtime, low satisfaction, long commute, short tenure, low income), with a list of still-active high-risk employees that HR can act on.
 
-![Risk Segmentation](powerbi/page3_risk_png.png)
+![Risk Segmentation](powerbi/screenshots/page3_risk.png.png)
 
 The dashboard file is in the `powerbi/` folder (open it with Power BI Desktop).
 
